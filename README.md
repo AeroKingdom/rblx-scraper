@@ -10,7 +10,8 @@ You can either run the script and paste the game ID when prompted or use it in t
 `rblx-scraper.py <placeid> [version]`
 
 If no version is specified, the program will download every version it can access.
-### Example
+
+## Examples
 Downloading all versions of Crossroads
 
 `rblx-scraper.py 1818`
@@ -18,6 +19,7 @@ Downloading all versions of Crossroads
 Downloading version 10 of Crossroads
 
 `rblx-scraper.py 1818 10`
+
 ## To-do
 - Add custom .ROBLOSECURITY cookie support
 - Resume downloading
