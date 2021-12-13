@@ -24,7 +24,7 @@ Downloading version 10 of Crossroads
 - Add custom .ROBLOSECURITY cookie support
 - Resume downloading
 
-## Licensing
+## License
 
 This is free and unencumbered software released into the public domain.
 
