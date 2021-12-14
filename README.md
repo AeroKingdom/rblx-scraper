@@ -23,6 +23,7 @@ Downloading version 10 of Crossroads
 ## To-do
 - Add custom .ROBLOSECURITY cookie support
 - Resume downloading
+- Check if two versions are identical to save bandwidth and time
 
 ## License
 
